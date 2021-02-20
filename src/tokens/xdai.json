@@ -280,7 +280,7 @@
       "logoURI": "https://bscscan.com/token/images/bakeryswap_32.png"
     },
     {
-      "name": "vBTC,
+      "name": "vBTC",
       "address": "0x882c173bc7ff3b7786ca16dfed3dfffb9ee7847b",
       "symbol": "vBTC",
       "decimals": 18,
@@ -469,7 +469,7 @@
       "symbol": "BIFI",
       "decimals": 18,
       "chainId": 56,
-      "logoURI": "https://assets.coingecko.com/coins/images/12704/small/token.png?1601876182"
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/small/token.png"
     },
     {
       "name": "BTCST",
@@ -477,7 +477,7 @@
       "symbol": "BTCST",
       "decimals": 18,
       "chainId": 56,
-      "logoURI": "https://assets.coingecko.com/coins/images/13636/small/btcst-coin.png?1610501705"
+      "logoURI": "https://assets.coingecko.com/coins/images/13636/small/btcst-coin.png"
     },
     {
       "name": "BSCEX",
@@ -485,7 +485,7 @@
       "symbol": "BSCX",
       "decimals": 18,
       "chainId": 56,
-      "logoURI": "https://assets.coingecko.com/coins/images/13582/small/icon-bscex-200x200.png?1609917200"
+      "logoURI": "https://assets.coingecko.com/coins/images/13582/small/icon-bscex-200x200.png"
     },
     {
       "name": "Unifi Protocol DAO",
@@ -493,7 +493,7 @@
       "symbol": "UNFI",
       "decimals": 18,
       "chainId": 56,
-      "logoURI": "https://assets.coingecko.com/coins/images/13152/small/logo-2.png?1605748967"
+      "logoURI": "https://assets.coingecko.com/coins/images/13152/small/logo-2.png"
     },
     {
       "name": "Fuel Token",
@@ -501,7 +501,7 @@
       "symbol": "FUEL",
       "decimals": 18,
       "chainId": 56,
-      "logoURI": "https://assets.coingecko.com/coins/images/13305/small/bW_WB5Rz_400x400.jpg?1607325041"
+      "logoURI": "https://assets.coingecko.com/coins/images/13305/small/bW_WB5Rz_400x400.jpg"
     },
     {
       "name": "BAT True Share",
@@ -509,7 +509,7 @@
       "symbol": "BTS",
       "decimals": 18,
       "chainId": 56,
-      "logoURI": "https://assets.coingecko.com/coins/images/13623/small/btd200.png?1613450034"
+      "logoURI": "https://assets.coingecko.com/coins/images/13623/small/btd200.png"
     },
     {
       "name": "PandaSwap Token",
@@ -519,4 +519,4 @@
       "chainId": 100,
       "logoURI": "https://www.bao.finance/static/media/bao-banner.90e5acb6.png"
     }
-  ]
+]
