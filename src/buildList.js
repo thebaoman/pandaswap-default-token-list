@@ -14,7 +14,7 @@ module.exports = function buildList() {
     tags: {},
     logoURI: "https://www.bao.finance/static/media/bao-banner.90e5acb6.png",
     keywords: ["Pandaswap", "bsc"],
-    tokens: [...xdai]
+    tokens: [...bsc]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
         if (t1.chainId === t2.chainId) {
