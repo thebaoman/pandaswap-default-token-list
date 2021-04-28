@@ -1,5 +1,5 @@
 const { version } = require("../package.json");
-const xdai = require("./tokens/xdai.json");
+const bsc = require("./tokens/bsc.json");
 
 module.exports = function buildList() {
   const parsed = version.split(".");
@@ -14,7 +14,7 @@ module.exports = function buildList() {
     tags: {},
     logoURI: "https://www.bao.finance/static/media/bao-banner.90e5acb6.png",
     keywords: ["Pandaswap", "bsc"],
-    tokens: [...xdai]
+    tokens: [...bsc]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
         if (t1.chainId === t2.chainId) {
