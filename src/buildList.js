@@ -1,5 +1,5 @@
 const { version } = require("../package.json");
-const xdai = require("./tokens/xdai.json");
+const bsc = require("./tokens/bsc.json");
 
 module.exports = function buildList() {
   const parsed = version.split(".");
